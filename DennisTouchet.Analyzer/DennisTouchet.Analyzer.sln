@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DennisTouchet.Analyzer", "DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.csproj", "{2F2C4E7A-2C1B-494E-B588-1E50FBDB8EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DennisTouchet.Analyzer.CodeFixes", "DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\DennisTouchet.Analyzer.CodeFixes.csproj", "{98A18F53-AD83-4AFB-A200-7BEDB159BDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DennisTouchet.Analyzer.Package", "DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\DennisTouchet.Analyzer.Package.csproj", "{05D73AC6-5704-438F-A84C-BCDDFEC5BC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DennisTouchet.Analyzer.Test", "DennisTouchet.Analyzer\DennisTouchet.Analyzer.Test\DennisTouchet.Analyzer.Test.csproj", "{38828B72-F486-4A83-AA38-1146EFA6F0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DennisTouchet.Analyzer.Vsix", "DennisTouchet.Analyzer\DennisTouchet.Analyzer.Vsix\DennisTouchet.Analyzer.Vsix.csproj", "{A7EA5892-B8AC-4880-BCCA-27C2F9B48FC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2C4E7A-2C1B-494E-B588-1E50FBDB8EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2C4E7A-2C1B-494E-B588-1E50FBDB8EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2C4E7A-2C1B-494E-B588-1E50FBDB8EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2C4E7A-2C1B-494E-B588-1E50FBDB8EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A18F53-AD83-4AFB-A200-7BEDB159BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A18F53-AD83-4AFB-A200-7BEDB159BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A18F53-AD83-4AFB-A200-7BEDB159BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A18F53-AD83-4AFB-A200-7BEDB159BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D73AC6-5704-438F-A84C-BCDDFEC5BC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D73AC6-5704-438F-A84C-BCDDFEC5BC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D73AC6-5704-438F-A84C-BCDDFEC5BC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D73AC6-5704-438F-A84C-BCDDFEC5BC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38828B72-F486-4A83-AA38-1146EFA6F0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38828B72-F486-4A83-AA38-1146EFA6F0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38828B72-F486-4A83-AA38-1146EFA6F0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38828B72-F486-4A83-AA38-1146EFA6F0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EA5892-B8AC-4880-BCCA-27C2F9B48FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EA5892-B8AC-4880-BCCA-27C2F9B48FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EA5892-B8AC-4880-BCCA-27C2F9B48FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EA5892-B8AC-4880-BCCA-27C2F9B48FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C87F459-2B63-4EA8-B850-7E59216C8F96}
+	EndGlobalSection
+EndGlobal
