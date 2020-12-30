@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj": {}
+    "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj": {
+    "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj",
+        "projectUniqueName": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj",
         "projectName": "DennisTouchet.Analyzer.CodeFixes",
-        "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj",
+        "projectPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj",
         "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\obj\\",
+        "outputPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
+          "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
           "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -29,8 +29,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
-                "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj"
+              "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
+                "projectPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj"
               }
             }
           }
@@ -70,17 +70,17 @@
         }
       }
     },
-    "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
+    "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj",
-        "projectName": "*C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*",
-        "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj",
+        "projectUniqueName": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj",
+        "projectName": "*C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*",
+        "projectPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj",
         "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\obj\\",
+        "outputPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
+          "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
           "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -112,6 +112,10 @@
               "version": "[2.9.8, )"
             },
             "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp.Workspaces": {
               "target": "Package",
               "version": "[3.3.1, )"
             },

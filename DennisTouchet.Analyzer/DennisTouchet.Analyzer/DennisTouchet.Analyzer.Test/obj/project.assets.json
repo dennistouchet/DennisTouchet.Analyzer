@@ -21,7 +21,7 @@
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "[3.3.1]"
         }
       },
-      "Microsoft.CodeAnalysis.Analyzer.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.Analyzer.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "DiffPlex": "1.4.4",
@@ -48,10 +48,10 @@
           "build/_._": {}
         }
       },
-      "Microsoft.CodeAnalysis.CodeFix.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CodeFix.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.Workspaces.Common": "1.0.1"
         },
@@ -62,10 +62,10 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CodeFix.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.Workspaces.Common": "1.0.1"
         },
@@ -188,10 +188,10 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1"
         },
@@ -202,14 +202,14 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest.dll": {}
@@ -218,12 +218,12 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1",
-          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.dll": {}
@@ -232,15 +232,15 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1",
-          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest.dll": {}
@@ -249,12 +249,12 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1",
-          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.dll": {}
@@ -263,15 +263,15 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "1.0.1",
-          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest.dll": {}
@@ -335,11 +335,11 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "MSTest.TestFramework": "1.1.17",
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3"
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Testing.Verifiers.MSTest.dll": {}
@@ -401,10 +401,10 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
@@ -415,13 +415,13 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
         "compile": {
@@ -431,11 +431,11 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
         "compile": {
@@ -445,14 +445,14 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CodeFix.Testing": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
         "compile": {
@@ -462,11 +462,11 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
         "compile": {
@@ -476,14 +476,14 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20623.3": {
+      "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20629.1": {
         "type": "package",
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.Analyzer.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.Analyzers": "2.6.1",
-          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20623.3",
-          "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing": "1.0.1-beta1.20623.3",
+          "Microsoft.CodeAnalysis.CodeRefactoring.Testing": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest": "1.0.1-beta1.20629.1",
+          "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing": "1.0.1-beta1.20629.1",
           "Microsoft.CodeAnalysis.VisualBasic.Workspaces": "1.0.1"
         },
         "compile": {
@@ -2713,32 +2713,19 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "*C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*/1.0.0": {
+      "*C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "2.9.8",
-          "Microsoft.CodeAnalysis.CSharp": "3.3.1"
-        },
-        "compile": {
-          "bin/placeholder/*C:/Users/Trey/Dev/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj*.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/*C:/Users/Trey/Dev/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj*.dll": {}
-        }
-      },
-      "DennisTouchet.Analyzer.CodeFixes/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "*C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*": "1.0.0",
+          "Microsoft.CodeAnalysis.CSharp": "3.3.1",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "3.3.1"
         },
         "compile": {
-          "bin/placeholder/DennisTouchet.Analyzer.CodeFixes.dll": {}
+          "bin/placeholder/*C:/Users/Trey/Dev/AnalyzerPlayground/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj*.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DennisTouchet.Analyzer.CodeFixes.dll": {}
+          "bin/placeholder/*C:/Users/Trey/Dev/AnalyzerPlayground/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj*.dll": {}
         }
       }
     }
@@ -2773,10 +2760,10 @@
         "microsoft.codeanalysis.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.Analyzer.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "3Gsr1xSwYi03bT0GMX3WeAOXoq+UyyiV0RYg3JwslmWZNqVf2Lr0qlQE+26IlC47ugFjqQl5cUbfUzuJC8qArQ==",
+    "Microsoft.CodeAnalysis.Analyzer.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "E7ZLfFb6BKKN/k/QRh4IbCOA3/IlRgR0UEcMGhJTaBYUMWiLEf0eYW+427T3xQLGWQuMyRp8HBH86AAW0ZSC5w==",
       "type": "package",
-      "path": "microsoft.codeanalysis.analyzer.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.analyzer.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2793,7 +2780,7 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.Analyzer.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.Analyzer.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.Analyzer.Testing.xml",
-        "microsoft.codeanalysis.analyzer.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.analyzer.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.analyzer.testing.nuspec"
       ]
     },
@@ -2893,10 +2880,10 @@
         "tools/uninstall.ps1"
       ]
     },
-    "Microsoft.CodeAnalysis.CodeFix.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "LDk0Nzo8/gF7BkFHLfEoN1Pzk/o5Wo19mfkjwr5TnutpYzFxMCqUJIYUiqIwmUwVn3pe7u4Zb5t8drOb1uunsA==",
+    "Microsoft.CodeAnalysis.CodeFix.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "tWVoJlyYO4hCZsT8zETGvkIIPTC0+IReBcm14qlYQccPq45O5VIqxv80D2ZC/whl3wCPD674y7fPf4GSv7SSvg==",
       "type": "package",
-      "path": "microsoft.codeanalysis.codefix.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.codefix.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2913,14 +2900,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CodeFix.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CodeFix.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CodeFix.Testing.xml",
-        "microsoft.codeanalysis.codefix.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.codefix.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.codefix.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "Aj2evRPhODI840n6E2CKAOq0bA565+UTMIp9UjhGLdfW457L9SfuWhMhkcS1HvT5BOj29wFFyvUGjbxSOaRUIw==",
+    "Microsoft.CodeAnalysis.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "nEGGntCmsFeRDZTH7lyJnl2Yl4R0GCzOI73YT4uiGjexfyCKY6tlWf7ymE6RwKz0rG6Nu8FLoJYv1Ou/W3n4vw==",
       "type": "package",
-      "path": "microsoft.codeanalysis.coderefactoring.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.coderefactoring.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2937,7 +2924,7 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CodeRefactoring.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CodeRefactoring.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CodeRefactoring.Testing.xml",
-        "microsoft.codeanalysis.coderefactoring.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.coderefactoring.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.coderefactoring.testing.nuspec"
       ]
     },
@@ -2997,10 +2984,10 @@
         "microsoft.codeanalysis.csharp.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "u5+AGrJDshuVZJqH8+ijCdkKzzdFSjcCRx0SGGQE921tbT8tdjv8zgf9JTBZaCprRUI1eR4Q8dUpMAIbaJ+axQ==",
+    "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "rOw5tHEpeYKsMphE/lX/oksBEaWEQZ62MfYRMs4Pq7voBtBb1MBPzSeM2wc2DAzPckIaflO8k27t2d9qEcjkBw==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.analyzer.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.analyzer.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3017,14 +3004,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.xml",
-        "microsoft.codeanalysis.csharp.analyzer.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.analyzer.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.analyzer.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "TtJe7YpocOp9AZOzYqJQFYS/tblPYRSjyoWR2RxnMGRd3CTt0XvQzGcNbrrFupVLdXmmKPZGWnf2GqVo0WsT9g==",
+    "Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "6dCdg44z9R+pP+ebVKb5iEqGsRi8cQZkyFrgEgdC+7Uaee+xMuybJ6H0OLE6yaQrGmFFF6qtkQ1jzMcH6MIR/A==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.analyzer.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.analyzer.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3041,14 +3028,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.Analyzer.Testing.MSTest.xml",
-        "microsoft.codeanalysis.csharp.analyzer.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.analyzer.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.analyzer.testing.mstest.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "m2SFDWx7iJ5+DzIK1H9wEejsIy6IfU5IAgVHvPwNySaQiDL7o6QbddfMBU1JkO5mxmjjMuhS0SkZLc7CBw815w==",
+    "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "n+5ZQySI1sga0D1eUAhrKr1mO7rq4hrquUHPg5zGgyokNV7cBywtpHdTM4tOXwhy1G2faWO95yWVJb2YCaL7HA==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.codefix.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.codefix.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3065,14 +3052,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.xml",
-        "microsoft.codeanalysis.csharp.codefix.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.codefix.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.codefix.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "l8x0fH9qewjFM0QiFaJIOZ4oYVon4K+H8HGcIFdBNYo4JkTspfUizwP4fl+3GFrP/lzbgJ/wqA0kAI/OYvzrnw==",
+    "Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "MXDr+aD9qlNpGZohMU/Je+X5lBFne7s0EZiqxqrkVg0J7pqN/tSVt0gSbkNbheyHhUNRZcwwHJwFqnGcOqQ+wQ==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.codefix.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.codefix.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3089,14 +3076,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeFix.Testing.MSTest.xml",
-        "microsoft.codeanalysis.csharp.codefix.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.codefix.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.codefix.testing.mstest.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "xGx13PEpDwko7t0d0kvDNhlrPVn2WtXmIaphi+jqms4nZSbMoxuJG856Bx2JGTu4o6QufqGfqQG48BcU24Z7SQ==",
+    "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "rnlKD1L4KBMGDTQIeXuDKBNYqLXZaeX9cXFZqCnMXC8eklnE4iZBp2p3T+Fzp0mrRvGtSk4xq2VwE59izVj0DA==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.coderefactoring.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.coderefactoring.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3113,14 +3100,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.xml",
-        "microsoft.codeanalysis.csharp.coderefactoring.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.coderefactoring.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.coderefactoring.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "ze22pUGQTv5/lLg6oKf4W83cTHySqcEW2iYDCu62X00ioNhPgLYykug3ivran5OCZHuBoGbKTk2wOeQZMZNeFg==",
+    "Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "Wg4AXt+5WT0CQmkI0bw+Jg9O/+6sXb/0h/2jSa2bi6RObAB4WP1RAvOYDm04ToAShzVCtx8BVdIrEZYqpxt32w==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp.coderefactoring.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.csharp.coderefactoring.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3137,7 +3124,7 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.CodeRefactoring.Testing.MSTest.xml",
-        "microsoft.codeanalysis.csharp.coderefactoring.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.coderefactoring.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.csharp.coderefactoring.testing.mstest.nuspec"
       ]
     },
@@ -3169,10 +3156,10 @@
         "microsoft.codeanalysis.csharp.workspaces.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "KWl3CG5l/9VL7U+QyWW11lYVAR4KXRinhS4XDzy2Gc3bQ7HiPIPRVcGjoa3SlwhtV46dXBmznQCd4T43l4a1dg==",
+    "Microsoft.CodeAnalysis.Testing.Verifiers.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "K3+vwwuSBYfF2qC80roQVd+EBzFDJEn/Gke+aFATXqTJ+4oVySNLbMJws6e6cXwCSX5lkaNuecn/ACigwKh3TQ==",
       "type": "package",
-      "path": "microsoft.codeanalysis.testing.verifiers.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.testing.verifiers.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3189,7 +3176,7 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.Testing.Verifiers.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.Testing.Verifiers.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.Testing.Verifiers.MSTest.xml",
-        "microsoft.codeanalysis.testing.verifiers.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.testing.verifiers.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.testing.verifiers.mstest.nuspec"
       ]
     },
@@ -3221,10 +3208,10 @@
         "microsoft.codeanalysis.visualbasic.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "BoG/QSHYuYOmmjB2TVN8R5y3NWXuT/8PEmBZi2jlp5x9pBWL2nId25+fcSa+SV75HMChKy8dtwR5CcI3Yf4ENg==",
+    "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "gb9HrIqKRAhZk11G6UiKFHgayZu31wHr24nPaBbvZX25STAKTyPA2LYHtINAqgwgaTx6nMp30FYo8yIJBHji/A==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.analyzer.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.analyzer.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3241,14 +3228,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.xml",
-        "microsoft.codeanalysis.visualbasic.analyzer.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.analyzer.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.analyzer.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "9u5t6jPrpLrPYzWAs06BSt+OwpL7aiH9/0b6H8ej1n4setVNtuxPEFbAIbWihqTX9cHkvXOFQXTKaQrCYb5T6g==",
+    "Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "H4YapCUYIxIl7154CoGzKlTNedEkDZ8OZE6R+0vL2+c++x5YVDucCsBGOhNGDpiMyuPAB8qAIHZ6RpnSlqdxhA==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.analyzer.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.analyzer.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3265,14 +3252,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.Analyzer.Testing.MSTest.xml",
-        "microsoft.codeanalysis.visualbasic.analyzer.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.analyzer.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.analyzer.testing.mstest.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "WSxmVuP+L5QrpkPWsDiapDLqouuYQd6vp4VWSF+uHUaV2ypoGqcKp5awL1I+Nb6WhQaWfVaC5dVcr8edL6Eztw==",
+    "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "AzwjFw7JbMaufoqal3sl2RtdttgHKZR8sqRvoUwZ7DLDqljxuSGFg/cyDBYMrGH4ew5kcyI1ySOKXqKd/8UPKQ==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.codefix.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.codefix.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3289,14 +3276,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.xml",
-        "microsoft.codeanalysis.visualbasic.codefix.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.codefix.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.codefix.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "CMTxurJ0HoapiCaGUr4Ful94lvVpaxWETJRy108PAHodgB5TBU51GGrlVWOE/F6erj8wKgucBLQvgZZOLmZHyQ==",
+    "Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "Ia9cx1NI7I89qWAejFK5Vx+o8oA8FfdKpAjh7xDDpyP+gPzl852/V69yrsgnF51kEGP7RnqQPevkjIlJE+XQug==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.codefix.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.codefix.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3313,14 +3300,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeFix.Testing.MSTest.xml",
-        "microsoft.codeanalysis.visualbasic.codefix.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.codefix.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.codefix.testing.mstest.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing/1.0.1-beta1.20623.3": {
-      "sha512": "wXLj0T4j0eeXKIs9RA0nvO2FrYLloIvnmGNGVWJOFOdDvs/DRYojScN7YztY2ae3ETAps+JAOnm3UoGj0NVNVg==",
+    "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing/1.0.1-beta1.20629.1": {
+      "sha512": "y0Fy7JAboeC5YIsMzLjBiIxJVgzbu2UjdMIr0qF4oMBnx0UTAxG3M4pdY+xEKGfygkWZt6TdAu6w/vHYImbw3A==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.coderefactoring.testing/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.coderefactoring.testing/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3337,14 +3324,14 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.xml",
-        "microsoft.codeanalysis.visualbasic.coderefactoring.testing.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.coderefactoring.testing.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.coderefactoring.testing.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20623.3": {
-      "sha512": "XJyaFMqNchwrcWgYcQ/BBY6v4cjwakMhfwvIYYFslkY0pcPxOIUXbktNN5MDIkIJDG8A2tEXS7CQCzuODnLxhg==",
+    "Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest/1.0.1-beta1.20629.1": {
+      "sha512": "wxWkBaa+KqbXmcQtokOGtltgbgi/3tT2Mo7AyzATbrjC3GInxM41oh3rTf9c+gib0nil2XWTdUO50BgD9RohOw==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic.coderefactoring.testing.mstest/1.0.1-beta1.20623.3",
+      "path": "microsoft.codeanalysis.visualbasic.coderefactoring.testing.mstest/1.0.1-beta1.20629.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3361,7 +3348,7 @@
         "lib/netstandard1.5/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest.xml",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest.dll",
         "lib/netstandard2.0/Microsoft.CodeAnalysis.VisualBasic.CodeRefactoring.Testing.MSTest.xml",
-        "microsoft.codeanalysis.visualbasic.coderefactoring.testing.mstest.1.0.1-beta1.20623.3.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.coderefactoring.testing.mstest.1.0.1-beta1.20629.1.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.coderefactoring.testing.mstest.nuspec"
       ]
     },
@@ -8493,21 +8480,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "*C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*/1.0.0": {
+    "*C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj*/1.0.0": {
       "type": "project",
       "path": "../DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj",
       "msbuildProject": "../DennisTouchet.Analyzer/DennisTouchet.Analyzer.csproj"
-    },
-    "DennisTouchet.Analyzer.CodeFixes/1.0.0": {
-      "type": "project",
-      "path": "../DennisTouchet.Analyzer.CodeFixes/DennisTouchet.Analyzer.CodeFixes.csproj",
-      "msbuildProject": "../DennisTouchet.Analyzer.CodeFixes/DennisTouchet.Analyzer.CodeFixes.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "*C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj* >= 1.0.0",
-      "DennisTouchet.Analyzer.CodeFixes >= 1.0.0",
+      "*C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj* >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.CodeAnalysis >= 3.3.1",
@@ -8527,14 +8508,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\DennisTouchet.Analyzer.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\DennisTouchet.Analyzer.Test.csproj",
       "projectName": "DennisTouchet.Analyzer.Test",
-      "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\DennisTouchet.Analyzer.Test.csproj",
+      "projectPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\DennisTouchet.Analyzer.Test.csproj",
       "packagesPath": "C:\\Users\\Trey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\obj\\",
+      "outputPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
+        "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\NuGet.Config",
         "C:\\Users\\Trey\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8549,11 +8530,8 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj": {
-              "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.CodeFixes\\DennisTouchet.Analyzer.CodeFixes.csproj"
-            },
-            "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
-              "projectPath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj"
+            "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj": {
+              "projectPath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.csproj"
             }
           }
         }

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DennisTouchet.Analyzer</id>
+    <version>1.0.0</version>
+    <authors>Trey</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>DennisTouchet.Analyzer</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>DennisTouchet.Analyzer, analyzers</tags>
+    <repository url="http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE" />
+  </metadata>
+  <files>
+    <file src="C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.dll" target="analyzers\dotnet\cs\DennisTouchet.Analyzer.dll" />
+    <file src="C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.dll" target="analyzers\dotnet\cs\DennisTouchet.Analyzer.CodeFixes.dll" />
+    <file src="C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\tools\install.ps1" target="tools\install.ps1" />
+    <file src="C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+  </files>
+</package>

@@ -1,0 +1,16 @@
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.deps.json
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.csprojAssemblyReference.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.AssemblyInfoInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.AssemblyInfo.cs
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.csproj.CopyComplete
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.Package\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Package.pdb

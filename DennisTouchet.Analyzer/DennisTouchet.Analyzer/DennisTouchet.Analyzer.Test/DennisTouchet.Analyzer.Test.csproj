@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DennisTouchet.Analyzer.CodeFixes\DennisTouchet.Analyzer.CodeFixes.csproj" />
     <ProjectReference Include="..\DennisTouchet.Analyzer\DennisTouchet.Analyzer.csproj" />
   </ItemGroup>
 

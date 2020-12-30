@@ -1,0 +1,14 @@
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.deps.json
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.csprojAssemblyReference.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixResources.resources
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.csproj.GenerateResource.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.AssemblyInfo.cs
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.csproj.CopyComplete
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer.CodeFixes\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixes.pdb

@@ -1,0 +1,13 @@
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.deps.json
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\bin\Debug\netstandard2.0\DennisTouchet.Analyzer.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.CodeFixResources.resources
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.Resources.resources
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.csproj.GenerateResource.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.AssemblyInfoInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.AssemblyInfo.cs
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.dll
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\obj\Debug\netstandard2.0\DennisTouchet.Analyzer.pdb
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\bin\Debug\netstandard2.0\CodeFixResources.resx
+C:\Users\Trey\Dev\AnalyzerPlayground\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\DennisTouchet.Analyzer\bin\Debug\netstandard2.0\Resources.resx

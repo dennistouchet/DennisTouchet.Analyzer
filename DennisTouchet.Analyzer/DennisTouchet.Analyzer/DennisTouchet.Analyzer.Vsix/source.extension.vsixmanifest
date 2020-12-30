@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="DennisTouchet.Analyzer.f7ac83ed-aeb4-4381-a170-09d0b4d67ca0" Version="1.0" Language="en-US" Publisher="Trey"/>
+    <Identity Id="DennisTouchet.Analyzer.cd5836f1-c404-42ec-99e2-1c19bb9f5690" Version="1.0" Language="en-US" Publisher="Trey"/>
     <DisplayName>DennisTouchet.Analyzer</DisplayName>
     <Description xml:space="preserve">This is a sample diagnostic extension for the .NET Compiler Platform ("Roslyn").</Description>
   </Metadata>
@@ -14,8 +14,6 @@
   <Assets>
     <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="DennisTouchet.Analyzer" Path="|DennisTouchet.Analyzer|"/>
     <Asset Type="Microsoft.VisualStudio.Analyzer" d:Source="Project" d:ProjectName="DennisTouchet.Analyzer" Path="|DennisTouchet.Analyzer|"/>
-    <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="DennisTouchet.Analyzer.CodeFixes" Path="|DennisTouchet.Analyzer.CodeFixes|"/>
-    <Asset Type="Microsoft.VisualStudio.Analyzer" d:Source="Project" d:ProjectName="DennisTouchet.Analyzer.CodeFixes" Path="|DennisTouchet.Analyzer.CodeFixes|"/>
   </Assets>
   <Prerequisites>
     <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,)" DisplayName="Visual Studio core editor" />

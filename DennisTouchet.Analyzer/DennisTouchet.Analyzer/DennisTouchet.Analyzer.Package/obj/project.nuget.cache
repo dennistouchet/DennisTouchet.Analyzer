@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AfB3yLvc95xMwgU5xH0AQU24n9UwnowzY5DowDgO85utTWnPAvbP9xtX3lq0JRxGc17u4R6KAJXgNTTOPZeB4A==",
+  "dgSpecHash": "M/NLyZ97z+Cqm0CZniHFbf+29AfMM9s4S4aEScl6KsaoVi9oSzzjTsIqTcTYB2ycHDGd6lg0wrHXAO8Yv/NeEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Trey\\Dev\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Package\\DennisTouchet.Analyzer.Package.csproj",
+  "projectFilePath": "C:\\Users\\Trey\\Dev\\AnalyzerPlayground\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer\\DennisTouchet.Analyzer.Package\\DennisTouchet.Analyzer.Package.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Trey\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.8\\microsoft.codeanalysis.analyzers.2.9.8.nupkg.sha512",
     "C:\\Users\\Trey\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
